@@ -76,7 +76,7 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }，
+    },
     "hhzy": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
